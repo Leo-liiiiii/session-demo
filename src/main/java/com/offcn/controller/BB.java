@@ -9,4 +9,8 @@ public class BB {
         System.out.println("45454545");
     }
 
+    public  static  void test(){
+        System.out.println("dsadsdadsd");
+    }
+
 }
