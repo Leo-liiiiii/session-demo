@@ -16,4 +16,8 @@ public class BB {
     public  static  void test2(){
         System.out.println("dsadsdadsd");
     }
+
+    public  static  void test3(){
+        System.out.println("dsadsdadsd");
+    }
 }
