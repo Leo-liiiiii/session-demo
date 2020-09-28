@@ -13,4 +13,7 @@ public class BB {
         System.out.println("dsadsdadsd");
     }
 
+    public  static  void test2(){
+        System.out.println("dsadsdadsd");
+    }
 }
